@@ -1,5 +1,5 @@
 # configuration
-DATABASE = '/tmp/flaskr.db'
+DATABASE = 'flaskr.db'
 DEBUG = False
 SECRET_KEY = ''
 USERNAME = ''
